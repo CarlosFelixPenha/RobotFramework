@@ -1,50 +1,50 @@
-{"level":30,"time":"2021-03-10T11:47:08.129Z","pid":11928,"hostname":"felix","msg":"Listening on 42867"}
-{"level":30,"time":"2021-03-10T11:47:08.729Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:08.841Z","pid":11928,"hostname":"felix","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-10T11:47:08.842Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:17.722Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:17.722Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:17.723Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:17.741Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:17.741Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:17.741Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:18.035Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:18.134Z","pid":11928,"hostname":"felix","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-10T11:47:18.134Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:22.625Z","pid":11928,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-10T11:47:24.965Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:24.966Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:24.966Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:24.983Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:24.983Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:24.983Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:25.234Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:25.350Z","pid":11928,"hostname":"felix","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-10T11:47:25.350Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:30.341Z","pid":11928,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-10T11:47:32.675Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:32.675Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:32.675Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:32.689Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:32.690Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:32.690Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:32.950Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:33.063Z","pid":11928,"hostname":"felix","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-10T11:47:33.063Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:38.462Z","pid":11928,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-10T11:47:40.850Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:40.850Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:40.850Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:40.864Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:40.864Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:40.864Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:41.107Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:41.226Z","pid":11928,"hostname":"felix","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-10T11:47:41.226Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:49.648Z","pid":11928,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-10T11:47:51.919Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:51.919Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:51.919Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
-{"level":30,"time":"2021-03-10T11:47:51.934Z","pid":11928,"hostname":"felix","msg":"Changed active context"}
-{"level":30,"time":"2021-03-10T11:47:51.935Z","pid":11928,"hostname":"felix","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-10T11:47:51.935Z","pid":11928,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:29:56.624Z","pid":19713,"hostname":"felix","msg":"Listening on 37299"}
+{"level":30,"time":"2021-03-10T13:29:56.922Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:29:57.027Z","pid":19713,"hostname":"felix","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-10T13:29:57.027Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:04.091Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:04.091Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:04.091Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:04.108Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:04.108Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:04.108Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:04.393Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:04.489Z","pid":19713,"hostname":"felix","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-10T13:30:04.489Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:09.754Z","pid":19713,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-10T13:30:12.012Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:12.012Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:12.012Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:12.028Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:12.028Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:12.028Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:12.313Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:12.409Z","pid":19713,"hostname":"felix","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-10T13:30:12.410Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:16.410Z","pid":19713,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-10T13:30:18.674Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:18.674Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:18.674Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:18.691Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:18.691Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:18.691Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:18.960Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:19.084Z","pid":19713,"hostname":"felix","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-10T13:30:19.084Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:22.592Z","pid":19713,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-10T13:30:24.921Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:24.921Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:24.921Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:24.936Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:24.936Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:24.936Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:25.196Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:25.307Z","pid":19713,"hostname":"felix","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-10T13:30:25.307Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:29.256Z","pid":19713,"hostname":"felix","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-10T13:30:31.592Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:31.592Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:31.592Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
+{"level":30,"time":"2021-03-10T13:30:31.608Z","pid":19713,"hostname":"felix","msg":"Changed active context"}
+{"level":30,"time":"2021-03-10T13:30:31.608Z","pid":19713,"hostname":"felix","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-10T13:30:31.608Z","pid":19713,"hostname":"felix","msg":"Changed active page"}
