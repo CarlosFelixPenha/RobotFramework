@@ -1,4 +1,4 @@
 # RobotFramework
 Estudos com o Framework Robot
 
-Iniciando comandos basicos com Robot, teste
+Iniciando comandos basicos com Robot.
